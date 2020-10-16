@@ -18,6 +18,6 @@ IntelligentPeephole
 ├─ frsclient       FRS
 ├─ frscommon       SDK
 ├─ frsutils   /************/
-├─ index.py   // 主函数
+├─ index.py   // 主程序
 └─ README.md
 ```
