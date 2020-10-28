@@ -8,16 +8,3 @@
 * 触发器配置为输入桶
 * 输出桶名称设置为output-bucket(也可在代码中自行修改)
 * 输入输出的桶名称不能相同
-
-## 项目结构
-```
-IntelligentPeephole                                
-├─ com        // 常用SDK结构
-│  ├─ obs
-├─ frsaccess  /************/
-├─ frsclient       FRS
-├─ frscommon       SDK
-├─ frsutils   /************/
-├─ index.py   // 主程序
-└─ README.md
-```
