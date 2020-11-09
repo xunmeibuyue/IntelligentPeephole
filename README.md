@@ -8,3 +8,4 @@
 * 触发器配置为输入桶
 * 输出桶名称设置为output-bucket(也可在代码中自行修改)
 * 输入输出的桶名称不能相同
+* SMN服务配置自己的账号密码(index.py 123行)，可参考https://github.com/huaweicloudDocs/smn/blob/master/cn.zh-cn/SDK%E5%8F%82%E8%80%83/%E7%AE%80%E4%BB%8B.md
