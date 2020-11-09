@@ -9,4 +9,4 @@
 * 输出桶名称设置为output-bucket(也可在代码中自行修改)
 * 输入输出的桶名称不能相同
 * SMN服务配置自己的账号密码(index.py 123行)，可参考[官方说明](https://github.com/huaweicloudDocs/smn/blob/master/cn.zh-cn/SDK%E5%8F%82%E8%80%83/%E7%AE%80%E4%BB%8B.md)
-* `take_photo,py`是树莓派端程序，需要提前在树莓派上将com文件夹复制到程序所在目录下(需要RPi和picamera库支持)
+* `take_photo.py`是树莓派端程序，需要提前在树莓派上将com文件夹复制到程序所在目录下(需要RPi和picamera库支持)
